@@ -1,0 +1,137 @@
+[
+    {
+        "question": "O que é um vetor coluna?",
+        "explanation": "c) Um vetor com várias entradas colocadas na vertical. A definição de um vetor coluna é um vetor com várias entradas colocadas na vertical, o que o diferencia do vetor linha.",
+        "choice1": "Um vetor com apenas uma entrada.",
+        "choice2": "Um vetor com várias entradas colocadas na horizontal.", 
+        "choice3": "Um vetor com várias entradas colocadas na vertical.", 
+        "choice4": "Um vetor com entradas aleatórias.",
+        "answer": 3
+    },
+    {
+        "question": "Qual é o determinante de uma matriz 2x2 com elementos [a b; c d]?",
+        "explanation": "b) ad - bc. O determinante de uma matriz 2x2 é calculado por ad - bc.",
+        "choice1": "a + b + c + d.",
+        "choice2": "ad - bc.", 
+        "choice3": "ab - cd.", 
+        "choice4": "2ad - 2bc.",
+        "answer": 2
+    },
+    {
+        "question": "O que é um espaço vetorial?",
+        "explanation": "a) Um conjunto de vetores. Um espaço vetorial é um conjunto de vetores que atendem a certas propriedades, como a capacidade de serem somados e multiplicados por escalares.",
+        "choice1": "Um conjunto de vetores.",
+        "choice2": "Um conjunto de matrizes.", 
+        "choice3": "Um conjunto de funções.", 
+        "choice4": "Um conjunto de escalares.",
+        "answer": 1
+    },
+    {
+        "question": "Qual é o resultado da multiplicação de uma matriz m x n por uma matriz n x p?",
+        "explanation": "a) Uma matriz m x p. Quando uma matriz m x n é multiplicada por uma matriz n x p, o resultado é uma matriz m x p.",
+        "choice1": "Uma matriz m x p.",
+        "choice2": "Uma matriz n x p.", 
+        "choice3": "Uma matriz m x n.", 
+        "choice4": "Não é possível multiplicar essas matrizes.",
+        "answer": 1
+    },
+    {
+        "question": "O que é uma matriz diagonal?",
+        "explanation": "b) Uma matriz com elementos diferentes de zero apenas na diagonal principal. Uma matriz diagonal é uma matriz com elementos diferentes de zero apenas na diagonal principal e zero em todas as outras entradas.",
+        "choice1": "Uma matriz com elementos na diagonal principal iguais a zero.",
+        "choice2": "Uma matriz com elementos diferentes de zero apenas na diagonal principal.", 
+        "choice3": "Uma matriz com elementos iguais a zero fora da diagonal principal.", 
+        "choice4": "Uma matriz com elementos iguais a zero em todas as posições.",
+        "answer": 2
+    },
+    {
+        "question": "O que é um sistema linear?",
+        "explanation": "a) Um conjunto de equações lineares. Um sistema linear é um conjunto de equações lineares envolvendo as mesmas variáveis.",
+        "choice1": "Um conjunto de equações lineares.",
+        "choice2": "Um conjunto de funções não lineares.", 
+        "choice3": "Um conjunto de vetores.", 
+        "choice4": "Um conjunto de matrizes.",
+        "answer": 1
+    },
+    {
+        "question": "Qual é a inversa da matriz identidade?",
+        "explanation": "a) A própria matriz identidade. A matriz identidade é a única matriz que é sua própria inversa.",
+        "choice1": "A própria matriz identidade.",
+        "choice2": "Uma matriz com todas as entradas iguais a zero.", 
+        "choice3": "Uma matriz com todas as entradas iguais a um.", 
+        "choice4": "Não existe inversa para a matriz identidade.",
+        "answer": 1
+    },
+    {
+        "question": "O que é um vetor linearmente dependente?",
+        "explanation": "b) Um vetor que pode ser expresso como uma combinação linear de outros vetores. Um vetor é linearmente dependente se pode ser expresso como uma combinação linear de outros vetores. Em outras palavras, ele não é linearmente independente e pode ser escrito como uma combinação de outros vetores no espaço.",
+        "choice1": "Um vetor que não pode ser expresso como uma combinação linear de outros vetores.",
+        "choice2": "Um vetor que pode ser expresso como uma combinação linear de outros vetores.", 
+        "choice3": "Um vetor com magnitude zero.", 
+        "choice4": "Um vetor com magnitude infinita.",
+        "answer": 2
+    },
+    {
+        "question": "O que é um produto interno?",
+        "explanation": "d) Um produto escalar entre vetores. O produto interno é uma operação que leva dois vetores como entrada e retorna um escalar como resultado. É também chamado de produto escalar ou produto ponto.",
+        "choice1": "Um produto entre matrizes.",
+        "choice2": "Um produto entre funções.", 
+        "choice3": "Um produto vetorial entre vetores.", 
+        "choice4": "Um produto escalar entre vetores.",
+        "answer": 4
+    },
+    {
+        "question": "O que é a transposta de uma matriz?",
+        "explanation": "c) A matriz obtida trocando as colunas pelas linhas. A transposta de uma matriz é uma operação que transforma as colunas em linhas e as linhas em colunas.",
+        "choice1": "A matriz obtida invertendo todas as entradas.",
+        "choice2": "A matriz obtida trocando as entradas da diagonal principal.", 
+        "choice3": "A matriz obtida trocando as colunas pelas linhas.", 
+        "choice4": "Não existe transposta de uma matriz.",
+        "answer": 3
+    },
+    {
+        "question": "O que é um subespaço vetorial?",
+        "explanation": "b) Um subconjunto de um espaço vetorial que é em si um espaço vetorial. Um subespaço vetorial é um subconjunto de um espaço vetorial que é em si um espaço vetorial, ou seja, ele contém todos os vetores que atendem às propriedades do espaço vetorial.",
+        "choice1": "Um conjunto de vetores que não atende às propriedades de um espaço vetorial.",
+        "choice2": "Um subconjunto de um espaço vetorial que é em si um espaço vetorial.", 
+        "choice3": "Um conjunto de vetores linearmente dependentes.", 
+        "choice4": "Um conjunto de vetores ortogonais.",
+        "answer": 2
+    },
+    {
+        "question": "O que é a matriz inversa?",
+        "explanation": "a) Uma matriz que pode ser multiplicada pela matriz original para obter a matriz identidade. A matriz inversa é uma matriz que, quando multiplicada pela matriz original, resulta na matriz identidade.",
+        "choice1": "Uma matriz que pode ser multiplicada pela matriz original para obter a matriz identidade.",
+        "choice2": "Uma matriz que é o resultado da multiplicação de duas matrizes.", 
+        "choice3": "Uma matriz que tem apenas entradas iguais a zero.", 
+        "choice4": "Uma matriz que não tem inversa.",
+        "answer": 1
+    },
+    {
+        "question": "O que é um espaço nulo?",
+        "explanation": "c) Um conjunto de vetores que satisfazem uma equação linear homogênea. O espaço nulo de uma matriz é o conjunto de vetores que satisfazem a equação linear homogênea Ax = 0, onde A é a matriz e x é o vetor de incógnitas.",
+        "choice1": "Um subconjunto do espaço vetorial que contém apenas o vetor nulo.",
+        "choice2": "Um subespaço vetorial que contém apenas o vetor nulo.", 
+        "choice3": "Um conjunto de vetores que satisfazem uma equação linear homogênea.", 
+        "choice4": "Um conjunto de vetores que satisfazem uma equação linear não homogênea.",
+        "answer": 3
+    },
+    {
+        "question": "O que é um autovalor de uma matriz?",
+        "explanation": "b) Um escalar que, quando multiplicado por um vetor próprio, resulta em um múltiplo do mesmo vetor. Um autovalor de uma matriz é um escalar que, quando multiplicado por um vetor próprio da matriz, resulta em um múltiplo do mesmo vetor.",
+        "choice1": "Um vetor próprio da matriz.",
+        "choice2": "Um escalar que, quando multiplicado por um vetor próprio, resulta em um múltiplo do mesmo vetor.", 
+        "choice3": "Um escalar que, quando multiplicado pela matriz, resulta na matriz identidade.", 
+        "choice4": "Um escalar que, quando adicionado à matriz, resulta em uma matriz simétrica.",
+        "answer": 2
+    },
+    {
+        "question": "O que é um vetor próprio de uma matriz?",
+        "explanation": "d) Um vetor que, quando multiplicado pela matriz, resulta em um múltiplo do mesmo vetor. Um vetor próprio de uma matriz é um vetor não nulo que, quando multiplicado pela matriz, resulta em um múltiplo do mesmo vetor. Em outras palavras, é um vetor que não muda de direção após a multiplicação pela matriz.",
+        "choice1": "Um vetor que é a soma de dois ou mais vetores.",
+        "choice2": "Um vetor que é ortogonal a todos os outros vetores da matriz.", 
+        "choice3": "Um vetor que é paralelo a todos os outros vetores da matriz.", 
+        "choice4": "Um vetor que, quando multiplicado pela matriz, resulta em um múltiplo do mesmo vetor.",
+        "answer": 4
+    }
+]
